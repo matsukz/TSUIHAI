@@ -1,2 +1,2 @@
-# TUIHASI
 Twitterなしでツイートするやつ
+importいっぱいしたし未完成
